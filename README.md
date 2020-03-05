@@ -1,3 +1,4 @@
-# andersonalac.github.io
+# A personal blog
 
-you can use any usernames you like...
+do some recordings of my learning process
+It is important to build your own library of knowledge, I've alway wanted to do this but never realized
