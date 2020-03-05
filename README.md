@@ -1,3 +1,3 @@
 # andersonalac.github.io
 
-building a personal site with github.io
+you can use any usernames you like
