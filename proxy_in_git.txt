@@ -1,4 +1,0 @@
-using it with proxy
-set config http.proxy to the port
-
-try again
